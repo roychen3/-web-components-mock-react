@@ -62,153 +62,153 @@
   ],
   "specificationDetails": {
     "i14Pro-blue-128g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026582322",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-blue.jpg?raw=true",
       "stock": 10,
       "price": 27900
     },
     "i14Pro-blue-256g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026582322",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-blue.jpg?raw=true",
       "stock": 13,
       "price": 31400
     },
     "i14Pro-blue-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026582322",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-blue.jpg?raw=true",
       "stock": 16,
       "price": 38400
     },
     "i14Pro-purple-128g": {
       "isPreOrder": true,
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027205808",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-purple.jpg?raw=true",
       "stock": 10,
       "price": 27900
     },
     "i14Pro-purple-256g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027205808",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-purple.jpg?raw=true",
       "stock": 13,
       "price": 31400
     },
     "i14Pro-purple-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027205808",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-purple.jpg?raw=true",
       "stock": 16,
       "price": 38400
     },
     "i14Pro-black-128g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026579503",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-black.jpg?raw=true",
       "stock": 0,
       "price": 27900
     },
     "i14Pro-black-256g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026579503",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-black.jpg?raw=true",
       "stock": 13,
       "price": 31400
     },
     "i14Pro-black-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661026579503",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-black.jpg?raw=true",
       "stock": 16,
       "price": 38400
     },
     "i14Pro-starlight-128g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027204398",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-starlight.jpg?raw=true",
       "stock": 10,
       "price": 27900
     },
     "i14Pro-starlight-256g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027204398",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-starlight.jpg?raw=true",
       "stock": 13,
       "price": 31400
     },
     "i14Pro-starlight-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027204398",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-starlight.jpg?raw=true",
       "stock": 16,
       "price": 38400
     },
     "i14Pro-red-128g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-product-red?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027205642",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-red.jpg?raw=true",
       "stock": 10,
       "price": 27900
     },
     "i14Pro-red-256g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-product-red?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027205642",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-red.jpg?raw=true",
       "stock": 13,
       "price": 31400
     },
     "i14Pro-red-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-product-red?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027205642",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-red.jpg?raw=true",
       "stock": 16,
       "price": 38400
     },
     "i14ProMax-blue-128g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-storage-select-202209-6-7inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660691793956",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-blue.jpg?raw=true",
       "stock": 19,
       "price": 31900
     },
     "i14ProMax-blue-256g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-storage-select-202209-6-7inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660691793956",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-blue.jpg?raw=true",
       "stock": 22,
       "price": 35400
     },
     "i14ProMax-blue-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-storage-select-202209-6-7inch-blue?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1660691793956",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-blue.jpg?raw=true",
       "stock": 25,
       "price": 42400
     },
     "i14ProMax-purple-128g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-purple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027938735",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-purple.jpg?raw=true",
       "stock": 19,
       "price": 31900
     },
     "i14ProMax-purple-256g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-purple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027938735",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-purple.jpg?raw=true",
       "stock": 22,
       "price": 35400
     },
     "i14ProMax-purple-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-purple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027938735",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-purple.jpg?raw=true",
       "stock": 25,
       "price": 42400
     },
     "i14ProMax-black-128g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-midnight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027925267",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-black.jpg?raw=true",
       "stock": 19,
       "price": 31900
     },
     "i14ProMax-black-256g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-midnight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027925267",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-black.jpg?raw=true",
       "stock": 22,
       "price": 35400
     },
     "i14ProMax-black-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-midnight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027925267",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-black.jpg?raw=true",
       "stock": 25,
       "price": 42400
     },
     "i14ProMax-starlight-128g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027935971",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-starlight.jpg?raw=true",
       "stock": 19,
       "price": 31900
     },
     "i14ProMax-starlight-256g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027935971",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-starlight.jpg?raw=true",
       "stock": 22,
       "price": 35400
     },
     "i14ProMax-starlight-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-starlight?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027935971",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-starlight.jpg?raw=true",
       "stock": 25,
       "price": 42400
     },
     "i14ProMax-red-128g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-product-red?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027939728",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-red.jpg?raw=true",
       "stock": 19,
       "price": 31900
     },
     "i14ProMax-red-256g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-product-red?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027939728",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-red.jpg?raw=true",
       "stock": 22,
       "price": 35400
     },
     "i14ProMax-red-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-product-red?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1661027939728",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/iphone14Pro/iphone-14-pro-max-red.jpg?raw=true",
       "stock": 25,
       "price": 42400
     }

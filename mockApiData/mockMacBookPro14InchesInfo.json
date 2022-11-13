@@ -76,304 +76,304 @@
   ],
   "specificationDetails": {
     "spacegray-8cpu14gup-16g-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 10,
       "price": 59900
     },
     "spacegray-8cpu14gup-16g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 13,
       "price": 65900
     },
     "spacegray-8cpu14gup-16g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 16,
       "price": 77900
     },
     "spacegray-8cpu14gup-16g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 19,
       "price": 95900
     },
     "spacegray-8cpu14gup-16g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 22,
       "price": 131900
     },
     "spacegray-8cpu14gup-32g-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 10,
       "price": 71900
     },
     "spacegray-8cpu14gup-32g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 13,
       "price": 77900
     },
     "spacegray-8cpu14gup-32g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 16,
       "price": 89900
     },
     "spacegray-8cpu14gup-32g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 19,
       "price": 107900
     },
     "spacegray-8cpu14gup-32g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 22,
       "price": 143900
     },
     "spacegray-10cpu14gup-16g-512g": {
       "isPreOrder": true,
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 10,
       "price": 65900
     },
     "spacegray-10cpu14gup-16g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 13,
       "price": 71900
     },
     "spacegray-10cpu14gup-16g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 16,
       "price": 83900
     },
     "spacegray-10cpu14gup-16g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 19,
       "price": 101900
     },
     "spacegray-10cpu14gup-16g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 22,
       "price": 137900
     },
     "spacegray-10cpu14gup-32g-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 10,
       "price": 77900
     },
     "spacegray-10cpu14gup-32g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 13,
       "price": 83900
     },
     "spacegray-10cpu14gup-32g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 16,
       "price": 95900
     },
     "spacegray-10cpu14gup-32g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 19,
       "price": 113900
     },
     "spacegray-10cpu14gup-32g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 22,
       "price": 149900
     },
     "spacegray-10cpu16gup-16g-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 0,
       "price": 68900
     },
     "spacegray-10cpu16gup-16g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 13,
       "price": 74900
     },
     "spacegray-10cpu16gup-16g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 16,
       "price": 86900
     },
     "spacegray-10cpu16gup-16g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 19,
       "price": 104900
     },
     "spacegray-10cpu16gup-16g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 22,
       "price": 140900
     },
     "spacegray-10cpu16gup-32g-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 10,
       "price": 80900
     },
     "spacegray-10cpu16gup-32g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 13,
       "price": 86900
     },
     "spacegray-10cpu16gup-32g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 16,
       "price": 98900
     },
     "spacegray-10cpu16gup-32g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 19,
       "price": 116900
     },
     "spacegray-10cpu16gup-32g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-spacegray.jpg?raw=true",
       "stock": 22,
       "price": 152900
     },
     "silver-8cpu14gup-16g-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 10,
       "price": 59900
     },
     "silver-8cpu14gup-16g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 13,
       "price": 65900
     },
     "silver-8cpu14gup-16g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 16,
       "price": 77900
     },
     "silver-8cpu14gup-16g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 19,
       "price": 95900
     },
     "silver-8cpu14gup-16g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 22,
       "price": 131900
     },
     "silver-8cpu14gup-32g-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 10,
       "price": 71900
     },
     "silver-8cpu14gup-32g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 13,
       "price": 77900
     },
     "silver-8cpu14gup-32g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 16,
       "price": 89900
     },
     "silver-8cpu14gup-32g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 19,
       "price": 107900
     },
     "silver-8cpu14gup-32g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 22,
       "price": 143900
     },
     "silver-10cpu14gup-16g-512g": {
       "isPreOrder": true,
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 10,
       "price": 65900
     },
     "silver-10cpu14gup-16g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 13,
       "price": 71900
     },
     "silver-10cpu14gup-16g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 16,
       "price": 83900
     },
     "silver-10cpu14gup-16g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 19,
       "price": 101900
     },
     "silver-10cpu14gup-16g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 22,
       "price": 137900
     },
     "silver-10cpu14gup-32g-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 10,
       "price": 77900
     },
     "silver-10cpu14gup-32g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 13,
       "price": 83900
     },
     "silver-10cpu14gup-32g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 16,
       "price": 95900
     },
     "silver-10cpu14gup-32g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 19,
       "price": 113900
     },
     "silver-10cpu14gup-32g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 22,
       "price": 149900
     },
     "silver-10cpu16gup-16g-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 0,
       "price": 68900
     },
     "silver-10cpu16gup-16g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 13,
       "price": 74900
     },
     "silver-10cpu16gup-16g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 16,
       "price": 86900
     },
     "silver-10cpu16gup-16g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 19,
       "price": 104900
     },
     "silver-10cpu16gup-16g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 22,
       "price": 140900
     },
     "silver-10cpu16gup-32g-512g": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 10,
       "price": 80900
     },
     "silver-10cpu16gup-32g-1t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 13,
       "price": 86900
     },
     "silver-10cpu16gup-32g-2t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 16,
       "price": 98900
     },
     "silver-10cpu16gup-32g-4t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 19,
       "price": 116900
     },
     "silver-10cpu16gup-32g-8t": {
-      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "image": "https://github.com/roychen3/web-components-mock-react/blob/master/src/images/product/macBookPro14Inches/macBook-pro-14-silver.jpg?raw=true",
       "stock": 22,
       "price": 152900
     }
