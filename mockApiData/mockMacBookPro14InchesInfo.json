@@ -1,0 +1,381 @@
+{
+  "productName": "MacBook Pro 14 吋",
+  "specifications": [
+    {
+      "id": "color",
+      "name": "顏色",
+      "options": [
+        {
+          "value": "spacegray",
+          "label": "太空灰色"
+        },
+        {
+          "value": "silver",
+          "label": "銀色"
+        }
+      ]
+    },
+    {
+      "id": "processor",
+      "name": "系統單晶片 (處理器)",
+      "options": [
+        {
+          "value": "8cpu14gup",
+          "label": "Apple M1 Pro 配備 8 核心 CPU、14 核心 GPU、16 核心神經網路引擎"
+        },
+        {
+          "value": "10cpu14gup",
+          "label": "Apple M1 Pro 配備 10 核心 CPU、14 核心 GPU、16 核心神經網路引擎"
+        },
+        {
+          "value": "10cpu16gup",
+          "label": "Apple M1 Pro 配備 10 核心 CPU、16 核心 GPU、16 核心神經網路引擎"
+        }
+      ]
+    },
+    {
+      "id": "memory",
+      "name": "記憶體",
+      "options": [
+        {
+          "value": "16g",
+          "label": "16GB 統一記憶體"
+        },
+        {
+          "value": "32g",
+          "label": "32GB 統一記憶體"
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "name": "儲存裝置",
+      "options": [
+        {
+          "value": "512g",
+          "label": "512GB SSD 儲存裝置"
+        },
+        {
+          "value": "1t",
+          "label": "1TB SSD 儲存裝置"
+        },
+        {
+          "value": "2t",
+          "label": "2TB SSD 儲存裝置"
+        },
+        {
+          "value": "4t",
+          "label": "4TB SSD 儲存裝置"
+        },
+        {
+          "value": "8t",
+          "label": "8TB SSD 儲存裝置"
+        }
+      ]
+    }
+  ],
+  "specificationDetails": {
+    "spacegray-8cpu14gup-16g-512g": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 10,
+      "price": 59900
+    },
+    "spacegray-8cpu14gup-16g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 13,
+      "price": 65900
+    },
+    "spacegray-8cpu14gup-16g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 16,
+      "price": 77900
+    },
+    "spacegray-8cpu14gup-16g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 19,
+      "price": 95900
+    },
+    "spacegray-8cpu14gup-16g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 22,
+      "price": 131900
+    },
+    "spacegray-8cpu14gup-32g-512g": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 10,
+      "price": 71900
+    },
+    "spacegray-8cpu14gup-32g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 13,
+      "price": 77900
+    },
+    "spacegray-8cpu14gup-32g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 16,
+      "price": 89900
+    },
+    "spacegray-8cpu14gup-32g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 19,
+      "price": 107900
+    },
+    "spacegray-8cpu14gup-32g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 22,
+      "price": 143900
+    },
+    "spacegray-10cpu14gup-16g-512g": {
+      "isPreOrder": true,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 10,
+      "price": 65900
+    },
+    "spacegray-10cpu14gup-16g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 13,
+      "price": 71900
+    },
+    "spacegray-10cpu14gup-16g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 16,
+      "price": 83900
+    },
+    "spacegray-10cpu14gup-16g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 19,
+      "price": 101900
+    },
+    "spacegray-10cpu14gup-16g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 22,
+      "price": 137900
+    },
+    "spacegray-10cpu14gup-32g-512g": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 10,
+      "price": 77900
+    },
+    "spacegray-10cpu14gup-32g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 13,
+      "price": 83900
+    },
+    "spacegray-10cpu14gup-32g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 16,
+      "price": 95900
+    },
+    "spacegray-10cpu14gup-32g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 19,
+      "price": 113900
+    },
+    "spacegray-10cpu14gup-32g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 22,
+      "price": 149900
+    },
+    "spacegray-10cpu16gup-16g-512g": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 0,
+      "price": 68900
+    },
+    "spacegray-10cpu16gup-16g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 13,
+      "price": 74900
+    },
+    "spacegray-10cpu16gup-16g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 16,
+      "price": 86900
+    },
+    "spacegray-10cpu16gup-16g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 19,
+      "price": 104900
+    },
+    "spacegray-10cpu16gup-16g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 22,
+      "price": 140900
+    },
+    "spacegray-10cpu16gup-32g-512g": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 10,
+      "price": 80900
+    },
+    "spacegray-10cpu16gup-32g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 13,
+      "price": 86900
+    },
+    "spacegray-10cpu16gup-32g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 16,
+      "price": 98900
+    },
+    "spacegray-10cpu16gup-32g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 19,
+      "price": 116900
+    },
+    "spacegray-10cpu16gup-32g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-spacegray-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647363032310",
+      "stock": 22,
+      "price": 152900
+    },
+    "silver-8cpu14gup-16g-512g": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 10,
+      "price": 59900
+    },
+    "silver-8cpu14gup-16g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 13,
+      "price": 65900
+    },
+    "silver-8cpu14gup-16g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 16,
+      "price": 77900
+    },
+    "silver-8cpu14gup-16g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 19,
+      "price": 95900
+    },
+    "silver-8cpu14gup-16g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 22,
+      "price": 131900
+    },
+    "silver-8cpu14gup-32g-512g": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 10,
+      "price": 71900
+    },
+    "silver-8cpu14gup-32g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 13,
+      "price": 77900
+    },
+    "silver-8cpu14gup-32g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 16,
+      "price": 89900
+    },
+    "silver-8cpu14gup-32g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 19,
+      "price": 107900
+    },
+    "silver-8cpu14gup-32g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 22,
+      "price": 143900
+    },
+    "silver-10cpu14gup-16g-512g": {
+      "isPreOrder": true,
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 10,
+      "price": 65900
+    },
+    "silver-10cpu14gup-16g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 13,
+      "price": 71900
+    },
+    "silver-10cpu14gup-16g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 16,
+      "price": 83900
+    },
+    "silver-10cpu14gup-16g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 19,
+      "price": 101900
+    },
+    "silver-10cpu14gup-16g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 22,
+      "price": 137900
+    },
+    "silver-10cpu14gup-32g-512g": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 10,
+      "price": 77900
+    },
+    "silver-10cpu14gup-32g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 13,
+      "price": 83900
+    },
+    "silver-10cpu14gup-32g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 16,
+      "price": 95900
+    },
+    "silver-10cpu14gup-32g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 19,
+      "price": 113900
+    },
+    "silver-10cpu14gup-32g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 22,
+      "price": 149900
+    },
+    "silver-10cpu16gup-16g-512g": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 0,
+      "price": 68900
+    },
+    "silver-10cpu16gup-16g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 13,
+      "price": 74900
+    },
+    "silver-10cpu16gup-16g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 16,
+      "price": 86900
+    },
+    "silver-10cpu16gup-16g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 19,
+      "price": 104900
+    },
+    "silver-10cpu16gup-16g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 22,
+      "price": 140900
+    },
+    "silver-10cpu16gup-32g-512g": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 10,
+      "price": 80900
+    },
+    "silver-10cpu16gup-32g-1t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 13,
+      "price": 86900
+    },
+    "silver-10cpu16gup-32g-2t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 16,
+      "price": 98900
+    },
+    "silver-10cpu16gup-32g-4t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 19,
+      "price": 116900
+    },
+    "silver-10cpu16gup-32g-8t": {
+      "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp14-silver-select-202110_GEO_TW?wid=904&hei=840&fmt=jpeg&qlt=95&.v=1647362605400",
+      "stock": 22,
+      "price": 152900
+    }
+  }
+}
