@@ -4,9 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --config webpack/prod.js --output-path ./dist/default",
-    "dev": "webpack serve --config webpack/dev.js"
+    "build": "webpack --config webpack/prod.js",
+    "dev": "webpack serve --config webpack/dev.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://roychen3.github.io/web-components-mock-react",
   "author": "Roy Chen",
   "license": "ISC",
   "dependencies": {
@@ -24,6 +27,7 @@
     "eslint": "^8.23.0",
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-webpack-plugin": "^3.2.0",
+    "gh-pages": "^4.0.0",
     "html-loader": "^3.1.2",
     "html-webpack-plugin": "^5.5.0",
     "postcss-loader": "^7.0.1",
