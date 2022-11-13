@@ -29,7 +29,7 @@ ul {
 }
 
 .spinner {
-  border: 3px solid #0067e6;
+  border: 3px solid #000;
   border-right: 3px solid transparent;
   border-radius: 50%;
   background-color: transparent;
@@ -37,6 +37,11 @@ ul {
   height: 24px;
   margin: 0 28px;
   animation: rotateRound 1s linear infinite;
+
+  &.spinner-white {
+    border-color: #fff;
+    border-right-color: transparent;
+  }
 }
 
 @keyframes rotateRound {

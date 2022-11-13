@@ -19,7 +19,6 @@ class HomePage extends HTMLElement {
     this._selectedValue = '';
 
     this.openModal = this.openModal.bind(this);
-    this.handleChange = this.handleChange.bind(this);
     this.render = this.render.bind(this);
   }
 
@@ -83,15 +82,14 @@ class HomePage extends HTMLElement {
   }
 
   async getProductListApi() {
+    this.querySelector('.open-modal .spinner').classList.remove('d-none');
     // mock api
     setTimeout(() => {
       this.productList = mockProductList;
       this._selectedValue = mockProductList[0].value;
+      this.querySelector('.open-modal .spinner').classList.add('d-none');
+      this.querySelector('.open-modal .text ').classList.remove('d-none');
     }, 1000);
-  }
-
-  handleChange(event) {
-    this._selectedValue = event.target.value;
   }
 
   connectedCallback() {
@@ -113,7 +111,11 @@ class HomePage extends HTMLElement {
   render() {
     const oldNode = this.querySelector('select');
     const newNode = oldNode.cloneNode(false);
-    newNode.addEventListener('change', this.handleChange);
+
+    const handleChange = (event) => {
+      this._selectedValue = event.target.value;
+    };
+    newNode.addEventListener('change', handleChange);
     const appendOptionNodes = (option) => {
       const optionNode = document.createElement('option');
       optionNode.setAttribute('value', option.value);
